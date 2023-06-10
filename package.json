@@ -1,5 +1,5 @@
 {
-  "name": "tiny-tummy",
+  "name": "smply",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TomFirth/tiny-tummy/issues"
+    "url": "https://github.com/TomFirth/smply/issues"
   },
-  "homepage": "https://github.com/TomFirth/tiny-tummy#readme"
+  "homepage": "https://github.com/TomFirth/smply#readme"
 }
